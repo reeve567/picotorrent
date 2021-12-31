@@ -6,6 +6,8 @@
 A tiny, hackable BitTorrent client written in modern C++. Based on
 Rasterbar-libtorrent to provide high performance and low memory usage.
 
+Basically the same, just had to change the peer id :/
+
 <p align="center">
     <img src="res/screenshot1.png?raw=true" width="614" />
 </p>
